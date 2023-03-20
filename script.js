@@ -306,6 +306,7 @@ let lnameInput = document.getElementById('last-name');
 let pinInput = document.getElementById('pincode');
 let addInput=document.getElementById('address');
 let genInput=gen;
+console.log(genInput)
 let foodInput=fooddata;
 let stateInput=document.getElementById('state');
 let conInput=document.getElementById('con');
