@@ -1,0 +1,86 @@
+.content{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color:bisque;
+  }
+  /* #form{
+    background:yellow;
+  } */
+  
+  .statediv
+  {
+    
+        display:flex;
+        flex-direction:row;
+        justify-content: space-evenly;
+        padding: 10px;
+        box-sizing: border-box;
+     
+  }
+  .condiv{
+    display:flex;
+        flex-direction:row;
+        justify-content: space-evenly;
+        padding: 10px;
+        box-sizing: border-box;
+  }
+  
+  .form-group{
+    
+    display:flex;
+    flex-direction:row;
+    justify-content:  space-evenly;
+    padding: 10px;
+    box-sizing: border-box;
+    flex-wrap:wrap
+  }
+ 
+.tdiv
+{
+  display:flex;
+  
+  flex-wrap: wrap;
+  background-color:darkgrey;
+  overflow-y: scroll;
+}
+  .buttondiv{
+    display:flex;
+    flex-direction:row;
+    justify-content:  center;
+    padding: 10px;
+    box-sizing: border-box;
+    flex-wrap:wrap
+  }
+  #radio-container{
+    
+    display:flex;
+    flex-direction:row;
+    justify-content:  space-evenly;
+    padding: 10px;
+    box-sizing: border-box;
+    flex-wrap:wrap
+  }
+  .row{
+    display:flex;
+    flex-direction:column;
+    align-items:  center;
+    padding: 10px;
+    box-sizing: border-box;
+    flex-wrap:wrap
+  }
+  #labmain{
+    background-color:yellow;
+    display: flex;
+    justify-content: center;
+  }
+  .col-12{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    padding: 10px;
+    box-sizing: border-box;
+    flex-wrap:wrap
+  }
+  
+  
